@@ -24,6 +24,17 @@ body {
     font-size: 30px;
 }
 
+button {
+    background-color: #15c4ca;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+    width: 100px;
+    color: #fff;
+    cursor: pointer;
+}
+
 /* COLORS */
 .red {
     color: red;

@@ -1,0 +1,37 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#content {
+    margin-bottom: 30px;
+}
+
+#content div {
+    margin-bottom: 10px;
+}
+
+#content label {
+    padding-left: 5px;
+}
+
+.timer-wrapper {
+    font-size: 30px;
+}
+
+/* COLORS */
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: #74985a;
+}
+
+.orange {
+    color: orange;
+}
